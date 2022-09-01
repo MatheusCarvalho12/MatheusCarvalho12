@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e243&size=35&center=true&vCenter=true&width=1000&lines=what’s+up?+i’m+Matheus+Carvalho;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="51%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCarvalho12&layout=compact&hide_border=true&title_color=f0e243&text_color=f0e243&bg_color=0d1117" />
+  <img width="51%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCarvalho12&layout=compact&hide_border=true&title_color=f0e243&text_color=f0e242&bg_color=0d1117" />
 </div>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2196f3&size=35&center=true&vCenter=true&width=1000&lines=what’s+up?+i’m+Matheus+Carvalho;Welcome!+:%29)](https://www.linkedin.com/in/matheus-carvalho-7067b8230)
-<br><br><br><br>
+
+<br><br><br>
+
+## 📭 Contact me
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncacarvalhomatheus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalho-7067b8230/)
+
+  
 ### 🌐 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 

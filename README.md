@@ -9,8 +9,7 @@
 ---
 
 ## 🧠 Architecture & Patterns
-Clean Architecture • Hexagonal • Domain-Driven Design (DDD) • Microservices • Event-Driven • CQRS  
-SaaS Multi-Tenant • API Gateway • SOLID • Observability • Structured Logging • CI/CD Automation
+SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DDD) • CQRS • Event-Driven • Microservices • API Gateway • SaaS Multi-Tenant
 
 ---
 
@@ -55,8 +54,9 @@ PostgreSQL • SQL Server (Stored Procedures) • Redis (Cache / PubSub / Stream
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN_UI-%23ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)
+![Zod](https://img.shields.io/badge/Zod-276EF1?style=for-the-badge&logo=zod&logoColor=white)
 
-Next.js • NextAuth • React • TypeScript • TailwindCSS • Prisma • ShadCN • API Routes • SSR / SSG
+Next.js • NextAuth • React • TypeScript • TailwindCSS • Prisma • ShadCN • **Zod** • API Routes • SSR / SSG
 
 ---
 
@@ -67,8 +67,9 @@ Next.js • NextAuth • React • TypeScript • TailwindCSS • Prisma • Sha
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Vercel)
+Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Vercel / Cloudflare)
 
 ---
 
@@ -80,5 +81,10 @@ OpenTelemetry • Jaeger
 
 ---
 
-## 💸 SaaS & Integrations
-SaaS Multi-Tenant Architecture • API Gateway (Fal-AI Integration) • Per-Request Billing (Stripe) • Real-Time Job Monitoring (Kafka + WebSocket)
+## 💳 Payment Integrations
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)
+![PagSeguro](https://img.shields.io/badge/PagSeguro-00B100?style=for-the-badge&logo=pagseguro&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+
+Stripe • Mercado Pago • PagSeguro • PayPal

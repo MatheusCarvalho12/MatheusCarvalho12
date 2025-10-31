@@ -2,46 +2,76 @@
 
 <br><br><br>
 
-## 📭 Contact me
+## 📭 Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncacarvalhomatheus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalho-7067b8230/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carvalho--matheus/)
 
-### 🌐 Programming Languages
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+---
 
-### ⚙️ Backend
+## 🧠 Architecture & Patterns
+Clean Architecture • Hexagonal • Domain-Driven Design (DDD) • Microservices • Event-Driven • CQRS  
+SaaS Multi-Tenant • API Gateway • SOLID • Observability • Structured Logging • CI/CD Automation
+
+---
+
+## ⚙️ Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🖥️ Frontend
-![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**.NET:** ASP.NET Core • Minimal APIs • Controllers • Middleware • Filters • SignalR • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • xUnit • BenchmarkDotNet • Polly • gRPC
 
-### 🎨 UI Frameworks and Design
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+**Go:** net/http • Echo / Chi / Fiber • pgx • sqlc • context & cancellation • goroutines • worker pools • testing & httptest • Testify • pprof
 
-### 🛢️ Databases
+---
+
+## 🔒 Authentication & Security
+OAuth2 • OpenID Connect • JWT • Secrets Management (Docker Secrets / AWS Secrets Manager / Azure Key Vault)
+
+---
+
+## 🧩 Messaging & Processing
+Kafka • RabbitMQ • Redis Streams • Outbox Pattern • Event-Driven Communication • Job Scheduling • Distributed Messaging
+
+---
+
+## 💾 Databases & Persistence
+![PostgreSQL#gh-light-mode-only](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white#gh-light-mode-only)
+![PostgreSQL#gh-dark-mode-only](https://img.shields.io/badge/postgresql-%234d76a1.svg?style=for-the-badge&logo=postgresql&logoColor=white#gh-dark-mode-only)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-### ☁️ Cloud Services
+PostgreSQL • SQL Server (Stored Procedures) • Redis (Cache / PubSub / Streams) • MongoDB • Cassandra
+
+---
+
+## 🌐 Frontend
+![Next.js#gh-light-mode-only](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white#gh-light-mode-only)
+![Next.js#gh-dark-mode-only](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=black#gh-dark-mode-only)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Next.js • React • NextAuth • Prisma • TailwindCSS • ShadCN • TypeScript • API Routes • SSR / SSG
+
+---
+
+## ☁️ DevOps, Cloud & Observability
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel#gh-light-mode-only](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white#gh-light-mode-only)
+![Vercel#gh-dark-mode-only](https://img.shields.io/badge/Vercel-%23ffffff.svg?style=for-the-badge&logo=vercel&logoColor=black#gh-dark-mode-only)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23FFA500.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-%23006fba.svg?style=for-the-badge&logo=jaegertracing&logoColor=white)
 
-### 📊 Data Analysis and Visualization
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Vercel)  
+Observability • OpenTelemetry + Jaeger
+
+---
+
+## 💸 SaaS & Integrations
+SaaS Multi-Tenant Architecture • API Gateway (Fal-AI Integration) • Per-Request Billing (Stripe) • Real-Time Job Monitoring (Kafka + WebSocket)

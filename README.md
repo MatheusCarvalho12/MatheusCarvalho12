@@ -4,7 +4,7 @@
 
 ## 📭 Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncacarvalhomatheus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carvalho--matheus/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalho-7067b8230)
 
 ---
 
@@ -38,8 +38,7 @@ Kafka • RabbitMQ • Redis Streams • Outbox Pattern • Event-Driven Communi
 ---
 
 ## 💾 Databases & Persistence
-![PostgreSQL#gh-light-mode-only](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white#gh-light-mode-only)
-![PostgreSQL#gh-dark-mode-only](https://img.shields.io/badge/postgresql-%234d76a1.svg?style=for-the-badge&logo=postgresql&logoColor=white#gh-dark-mode-only)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,8 +49,7 @@ PostgreSQL • SQL Server (Stored Procedures) • Redis (Cache / PubSub / Stream
 ---
 
 ## 🌐 Frontend
-![Next.js#gh-light-mode-only](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white#gh-light-mode-only)
-![Next.js#gh-dark-mode-only](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=black#gh-dark-mode-only)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,8 +64,7 @@ Next.js • React • NextAuth • Prisma • TailwindCSS • ShadCN • TypeScr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel#gh-light-mode-only](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white#gh-light-mode-only)
-![Vercel#gh-dark-mode-only](https://img.shields.io/badge/Vercel-%23ffffff.svg?style=for-the-badge&logo=vercel&logoColor=black#gh-dark-mode-only)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23FFA500.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-%23006fba.svg?style=for-the-badge&logo=jaegertracing&logoColor=white)
 

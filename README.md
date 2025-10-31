@@ -84,7 +84,7 @@ OpenTelemetry • Jaeger
 ## 💳 Payment Integrations
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/docs)
 [![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br/developers/pt/docs)
-[![PagSeguro](https://img.shields.io/badge/PagSeguro-00B100?style=for-the-badge&logo=pagseguro&logoColor=white)](https://dev.pagbank.com.br/)
+[![PagBank](https://img.shields.io/badge/PagBank-00B100?style=for-the-badge&logo=pagseguro&logoColor=white)](https://developer.pagbank.com.br)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://developer.paypal.com/docs/)
 
-Stripe • Mercado Pago • PagSeguro • PayPal
+Stripe • Mercado Pago • PagBank • PayPal

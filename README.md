@@ -25,11 +25,14 @@ SaaS Multi-Tenant • API Gateway • SOLID • Observability • Structured Log
 ---
 
 ## 🔒 Authentication & Security
-OAuth2 • OpenID Connect • JWT • Secrets Management (Docker Secrets / AWS Secrets Manager / Azure Key Vault)
+OAuth2 • OpenID Connect • JWT • Argon2id • Secrets Management (Docker Secrets / AWS Secrets Manager / Azure Key Vault)
 
 ---
 
 ## 🧩 Messaging & Processing
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
 Kafka • RabbitMQ • Redis Streams • Outbox Pattern • Event-Driven Communication • Job Scheduling • Distributed Messaging
 
 ---

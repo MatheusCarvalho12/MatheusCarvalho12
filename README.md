@@ -18,9 +18,9 @@ SaaS Multi-Tenant • API Gateway • SOLID • Observability • Structured Log
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**.NET:** ASP.NET Core • Minimal APIs • Controllers • Middleware • Filters • SignalR • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • xUnit • BenchmarkDotNet • Polly • gRPC
+**.NET:** ASP.NET Core • Minimal APIs • Controllers • Middleware • Filters • SignalR • gRPC • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • Polly • FluentValidation • xUnit • BenchmarkDotNet
 
-**Go:** net/http • Echo / Chi / Fiber • pgx • sqlc • context & cancellation • goroutines • worker pools • testing & httptest • Testify • pprof
+**Go:** net/http • Resty • Echo / Gin / Fiber • pgx • sqlc • GORM • Goroutines • Channels • Context & Cancellation • Worker Pools • Asynq • Cron • Testify • pprof • Zap
 
 ---
 
@@ -53,23 +53,30 @@ PostgreSQL • SQL Server (Stored Procedures) • Redis (Cache / PubSub / Stream
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-%23ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)
 
-Next.js • React • NextAuth • Prisma • TailwindCSS • ShadCN • TypeScript • API Routes • SSR / SSG
+Next.js • NextAuth • React • TypeScript • TailwindCSS • Prisma • ShadCN • API Routes • SSR / SSG
 
 ---
 
-## ☁️ DevOps, Cloud & Observability
+## ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23FFA500.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-%23006fba.svg?style=for-the-badge&logo=jaegertracing&logoColor=white)
 
-Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Vercel)  
-Observability • OpenTelemetry + Jaeger
+Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Vercel)
+
+---
+
+## 🔍 Observability & Monitoring
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23FF6F00.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-%230066CC.svg?style=for-the-badge&logo=jaegertracing&logoColor=white)
+
+OpenTelemetry • Jaeger
 
 ---
 

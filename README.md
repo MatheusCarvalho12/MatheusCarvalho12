@@ -16,7 +16,7 @@ SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DD
 ## ⚙️ Backend
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/3/)
 
 **.NET:** ASP.NET Core • Minimal APIs • Controllers • Middleware • Filters • SignalR • gRPC • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • Polly • FluentValidation • xUnit • BenchmarkDotNet
 

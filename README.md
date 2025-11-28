@@ -19,7 +19,7 @@ SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DD
 
 **.NET:** ASP.NET Core • Minimal APIs • Controllers • Filters • SignalR • gRPC • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • Polly • FluentValidation • xUnit
 
-**Python:** FastAPI • Django REST Framework • Uvicorn • SQLAlchemy • Pydantic • LangChain • OpenAI • pytest •
+**Python:** FastAPI • Django REST Framework • Uvicorn • SQLAlchemy • Pydantic • LangChain • OpenAI • pytest
 
 ---
 

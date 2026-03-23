@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 Architecture & Patterns
-SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DDD) • CQRS • Event-Driven • Microservices • API Gateway • SaaS Multi-Tenant
+SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DDD) • CQRS • Event-Driven • Microservices • API Gateway
 
 ---
 
@@ -19,7 +19,7 @@ SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DD
 
 **.NET:** ASP.NET Core • Minimal APIs • Controllers • Filters • SignalR • gRPC • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • Polly • FluentValidation • xUnit
 
-**Python:** FastAPI • Django REST Framework • Uvicorn • SQLAlchemy • Pydantic • LangChain • OpenAI • pytest
+**Python:** FastAPI • Uvicorn • SQLAlchemy • Pydantic • LangChain • LangGraph • OpenAI SDK • pytest • Ruff
 
 ---
 
@@ -33,7 +33,7 @@ OAuth2 • OpenID Connect • JWT • Argon2id • Secrets Management (Docker Se
 [![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/docs/)
 
-Kafka • RabbitMQ • Event-Driven Communication • Job Scheduling • Distributed Messaging
+Kafka • RabbitMQ • Event-Driven
 
 ---
 

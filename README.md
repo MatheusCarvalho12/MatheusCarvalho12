@@ -3,8 +3,7 @@
 <br><br><br>
 
 ## 📭 Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncacarvalhomatheus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalho-7067b8230)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncacarvalhomatheus@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white)](https://www.linkedin.com/in/matheus-carvalho-7067b8230)
 
 ---
 
@@ -14,8 +13,7 @@ SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DD
 ---
 
 ## ⚙️ Backend
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/3/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/3/)
 
 **.NET:** ASP.NET Core • Minimal APIs • Controllers • Filters • SignalR • gRPC • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • Polly • FluentValidation • xUnit
 
@@ -23,66 +21,56 @@ SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DD
 
 ---
 
-
 ## 🔒 Authentication & Security
 OAuth2 • OpenID Connect • JWT • Argon2id • Secrets Management (Docker Secrets / AWS Secrets Manager / Azure Key Vault)
 
 ---
 
 ## 🧩 Messaging & Processing
-[![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/docs/)
+[![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/) [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/docs/)
 
 Kafka • RabbitMQ • Event-Driven
 
 ---
 
 ## 💾 Databases & Persistence
-[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/sql/)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
-[![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/doc/stable/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) [![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQuNyAyLjV2LjNsLjQuNEw2LjkgNWE2IDYgMCAwIDEgLjcgNiAxNyAxNyAwIDAgMS00LjggNS42bC40LS4xIDEuMy0uOHEyLjUtMS40IDYtMi43YTc1IDc1IDAgMCAxIDEyLjEtMy4zaC40bC0uOC0xLjFhOSA5IDAgMCAwLTIuNi0yLjJRMTcuNSA1LjIgMTQgNC42bC0yLjItLjQtNC0uNy0xLjQtLjItMS0uM3EtLjQgMC0uNy0uNW0xIDEgMS40LjMuNiAydi0uMWE4IDggMCAwIDAtMi0yLjF6bTEuOC40IDIuNy42aC0uMWwtLjguNS0xIC44LS4yLjJ2LS4xTDcuNSA0em0zLjEuNi4xLjQuMiAyaC0uMkw5IDYuNGwtLjUtLjIuNi0uNnptLjIgMCAzLjIuOEwxMS4zIDd2LS4zcTAtMS0uNC0ybTQgLjgtLjIuNXEtLjIuOC0uOSAybC0uMS4zaC0uM0wxMiA3LjJsLS4zLS4xem0uMiAwIDMuNSAxLjIuMy4yaC0uMmwtNC40IDEuNHYtLjJhOCA4IDAgMCAwIC44LTIuNk04LjQgN2wuOC4xIDEuMy41LS4yLjJMOC44IDlsLS4zLjN6TTE5IDdsLS40LjZMMTcuNCA5bC0xIDEuMi0uMy4zdi0uMWwtMS41LTEuNi0uMy0uMnYtLjFsMS0uNSAyLjgtMXptLjMgMCAuMi4xTDIxLjkgOWwuNy43aC0uNHEtMi40LjItNS4zLjloLS4zbC4zLS4zQTkgOSAwIDAgMCAxOS4zIDdtLTguMS45IDEuNy44LS40LjItMiAxem0tLjUgMC0uMi44LS44IDEuOHYuMWwtLjMtLjItLjctLjVoLS4xem0zIDEuMnYuMmwyIDEuNS0uMi4xLTQuNSAxLjVoLS4zbC4zLS4zYTE2IDE2IDAgMCAwIDIuNS0yLjh6bS0uOC4yLTIuMyAzLS4zLjN2LS4xcTAtLjgtLjMtMS4zbC0uMS0uMnptLTQuNiAxLjIuOC41LS4yLjItMS41IDF6bTEuMiAxcS40LjUuNCAxdi4xbC0uNS4yTDYuNiAxNGExNSAxNSAwIDAgMCAyLjktMi43bS0uNiAwLS43LjhhMTIgMTIgMCAwIDEtMi40IDJsLjQtLjQuNi0uOC4zLS4zek0xMCAwYTI0IDI0IDAgMCAwLTQuNyAybC0uNS42LjUuNSAxLjEuNCAyLjguNSAzLjEuNXYtLjJsLS40LS4xdi0uMWwtMS4yLTIuNEwxMCAuM3ptMCAuMnYuMnEwIC44LjQgMS41di40TDcgMS43aC0uNEExNiAxNiAwIDAgMSAxMCAuMk02LjQgMS44bDQgLjgtLjIuMS0xLjcgMWgtLjRMOCAzLjIgNi41IDJ6bS0uMi4xLjUuNy44LjktMS4yLS4yLS44LS4zaC0uMnEwLS41LjktMXptNC40Ljl2LjFsLjcgMS4yaC0uNWwtMS42LS4zIDEuMi0uOHptNC4zIDguNEwxMCAxMi44bC00LjIgMS44LTEuMi4zLTIgMS43LS45IDEtLjcgMS4xYTIgMiAwIDAgMCAuMyAxLjhxLjggMS4yIDIuNiAybDIuNC44YTMxIDMxIDAgMCAwIDUuNS43bC41LS45cTEuMi0yLjUgMS43LTQuNWEyMSAyMSAwIDAgMCAuNC01bC0uMS0xLjh2LS4xbC42LS4yem0tMS4xLjcuMiAyLTEtLjYtMS4yLS44aC4yem0tMi41LjguMy4xIDIuMiAxLjNxLjMgMC0uMS4ybC0yLjUgMS4zLS4zLjJ2LS4ybC40LTIuNnptLS41LjFWMTRsLS40IDEuOC0uNy0uNi0uNy0xLS4yLS41em0tMi4zIDEgLjYgMS4xIDEgMS0uNS4zLTIuMy44LS42LjJWMTd6bS0uOC4zLS4zLjdMNiAxN2wtLjIuMy0uMy0xdi0xbC4xLS4zem02LjMuMnYuMmwtLjMgMy0xLjktLjgtLjgtLjUuMy0uMnptLTkgMS4xdi42cS0uMS43LjIgMS40bC4yLjMtMy4yIDFoLS40cTAtLjggMS0xLjhsMS4yLTF6bTUuNiAxIC4yLjFxMS40LjggMi44IDEuMWguMWwtLjEuMWMtLjUuMy0yIDEtMy43IDEuNWwtLjUuMnYtLjJ6bS0uNS4ydi4ybC0xLjQgMi41LS4yLjUtLjItLjJRNyAxOSA2LjMgMThsLjMtLjIgMy4yLTF6bTMuNiAxLjMtLjggMi44LS4yLjUtMy0uOS0uNi0uMi41LS4zem0tOC4zLjMtMS4xIDEuNS0uNi45LS4zLjQtLjIuM1YyMWwtLjYtLjctLjYtMS4xVjE5bDEuOS0uNSAxLjMtLjN6bS40LjEuMi4yIDEuNyAxLjRoLjJsLTQuNCAxLjZoLS4xdi0uMkw1LjMgMTl6bTMgMi4xLjMuMWExMiAxMiAwIDAgMCAzLjQuOGguMWwtMSAuM0w3IDIzbC4xLS4zIDEuNS0yem0tLjcgMC0uNyAxLjItLjUuNy0uMi40LS4xLjItMi4yLS45LS43LS40IDEuMS0uM3ptNC41IDEtLjkgMi40LTEuNC0uMi0yLjgtLjUuNS0uMSAyLjItLjYgMi4yLS44eiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://learn.microsoft.com/sql/) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/) [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/doc/stable/)
 
 PostgreSQL • SQL Server (Stored Procedures) • Redis (Cache / PubSub / Streams) • MongoDB • Cassandra
 
 ---
 
 ## 🌐 Frontend
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/docs)
-[![ShadCN](https://img.shields.io/badge/ShadCN_UI-%23ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)](https://ui.shadcn.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs) [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/guide/) [![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/docs) [![ShadCN](https://img.shields.io/badge/ShadCN_UI-%23ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)](https://ui.shadcn.com/)
 
-Next.js • NextAuth • React • TypeScript • TailwindCSS • Prisma • ShadCN • API Routes • SSR / SSG
+Next.js • NextAuth • React • TypeScript • Vite • TanStack • TailwindCSS • Prisma • ShadCN • API Routes • SSR / SSG
 
 ---
 
 ## ☁️ DevOps & Cloud
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuOCAxMHYuN2wuMy42di40bC0uNi40aC0uNGwtLjMtLjQtLjMtLjVhMyAzIDAgMCAxLTIuMyAxcS0xIDAtMS42LS41YTIgMiAwIDAgMS0uNi0xLjVxMC0xIC43LTEuNy44LS42IDItLjZsMS43LjN2LS42cTAtLjktLjMtMS4zLS40LS40LTEuMy0uNGwtLjkuMS0uOS4zLS4yLjFoLS4ybC0uMS0uMnYtLjdsLjItLjEgMS0uNEw0IDQuOHExLjQgMCAyIC43LjcuNS43IDJ6bS0zLjMgMS4yaC44bC44LS42LjMtLjVWOWwtLjctLjJINHEtLjkgMC0xLjIuMy0uNC4zLS40IDEgMCAuNS4zLjh0LjguM202LjQgMS0uMy0uMi0uMS0uMy0yLTYuMXYtLjRxMC0uMi4yLS4yaC44bC4zLjEuMi4zIDEuMyA1LjMgMS4yLTUuMy4yLS4zSDEzbC4xLjMgMS4zIDUuNCAxLjQtNS40LjEtLjNIMTdsLjIuMXYuNGwtMiA2LjFxMCAuMy0uMi4zbC0uMy4xaC0xbC0uMS0uNC0xLjMtNS4xLTEuMiA1LjFxMCAuMy0uMi4zbC0uMy4xem0xMC4zLjFBNSA1IDAgMCAxIDE4IDEybC0uMi0uM1YxMWwuMS0uMmguNGE0IDQgMCAwIDAgMS44LjRxLjcgMCAxLjItLjJhMSAxIDAgMCAwIC40LS44bC0uMi0uNS0uOC0uNS0xLjItLjNxLS45LS4zLTEuMy0uOGEyIDIgMCAwIDEtLjQtMS4yTDE4IDZsLjYtLjYuOC0uNCAxLjYtLjFoLjVsLjguMy4yLjIuMS4zVjZxMCAuMi0uMi4yaC0uM2wtMS41LS40LTEgLjJxLS40LjMtLjQuN3QuMi42cS4yLjMuOS40bDEuMS40cS45LjMgMS4yLjguNC41LjQgMXQtLjIgMS0uNi43cS0uMy4zLS45LjV6bTEuNSA0QTE3LjYgMTcuNiAwIDAgMSAuMSAxNC42cS0uMi0uNi4zLS40YTI0IDI0IDAgMCAwIDIxIDEuM2MuNC0uMi43LjMuMy42bTEtMS4zYy0uMi0uNS0yLjEtLjItMy0uMXEtLjQgMCAwLS40YzEuNS0xIDQtLjggNC4yLS40czAgMi44LTEuNSA0cS0uNC4yLS4zLS4xYy4zLS44IDEtMi42LjctMyIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://docs.aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D&logoColor=white)](https://learn.microsoft.com/azure/) [![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/)
 
-Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Vercel)
+Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Cloud Deployments (AWS / Azure / Cloudflare)
 
 ---
 
 ## 🔍 Observability & Monitoring
-[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23FF6F00.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/docs/)
-[![Jaeger](https://img.shields.io/badge/Jaeger-%230066CC.svg?style=for-the-badge&logo=jaegertracing&logoColor=white)](https://www.jaegertracing.io/docs/)
-[![PostHog](https://img.shields.io/badge/PostHog-%23000000.svg?style=for-the-badge&logo=posthog&logoColor=white)](https://posthog.com/docs)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23FF6F00.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/docs/) [![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/docs/) [![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)](https://docs.sentry.io/) [![LangSmith](https://img.shields.io/badge/LangSmith-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://docs.smith.langchain.com/)
 
-OpenTelemetry • Jaeger • PostHog
+OpenTelemetry • Grafana • Sentry • LangSmith
 
 ---
 
 ## 💳 Payment Integrations
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/docs)
-[![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br/developers/pt/docs)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/docs) [![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br/developers/pt/docs) [![Itaú](https://img.shields.io/badge/Ita%C3%BA-%23EC7000.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cGF0aCBkPSJNMjE5IDExYTEwMDQgMTAwNCAwIDAgMC0xMTggMTBsLTUgMS0yMyA1LTMgMXEtMTQgMy0yNSAxMS0xMCA5LTE1IDIzbC0xIDMtNyAzMC02IDQzdjZsLTIgMTVhMTIwNiAxMjA2IDAgMCAwIDQgMjE5bDEgNiAzIDE5IDEgNSAxMCAzNyAzIDUgMSAyIDEwIDEwIDIgMSAxIDFoMWwxNSA3IDE1IDRhNTAyIDUwMiAwIDAgMCA2NiAxMGw5IDEgNDIgM2gxMDRsMTItMWE1MjggNTI4IDAgMCAwIDg4LTEwbDMyLTcgMy0xIDEzLTYgNi01IDEwLTEyIDItM3YtMmw0LTEwIDktNDggMS02YTQ3OSA0NzkgMCAwIDAgNi02M2wxLTE0YTEyNzkgMTI3OSAwIDAgMC0yLTEyM2wtMS0xMi01LTUwYTUwNyA1MDcgMCAwIDAtMTUtNjRsLTMtMy0xMC0xMXEtMTAtNy0yMy0xMWwtNS0xLTgtMmgtNGwtNTctOS04LTFoLTZsLTgtMWExMjg2IDEyODYgMCAwIDAtMTE1LTJNODYgMjE0bDIgMSA2IDIgNSA3IDEgMSAxIDIgMSA3LTEgN2EyMCAyMCAwIDAgMS0xNyAxM2gtN2wtMS0xaC0zbC0yLTEtMS0xaC0xbC03LTctMS0zdi0xNGwxLTMgMS0xIDUtNiA2LTIgMi0xem0zMjggMjF2MTVoLTU4di0yMGwzLTEgMjItMyA0LTEgNC0xaDRsMy0xIDQtMSAxMS0yaDNabS0yNDkgMTR2MThoMzB2MjZoLTMwdjI4YzAgMzAgMCAyOSAyIDMzcTIgNCA3IDZsMiAxIDE1LTFoMnYyN2wtOSAxYTgzIDgzIDAgMCAxLTI4LTFsLTItMWgtMWwtMi0xLTEtMWgtMmwtNC0zLTItMS00LTVhMzcgMzcgMCAwIDEtNy0xNmwtMS00di0zMWwtMS0zMWgtMTd2LTI2aDE4di0zMWg0bDMtMSA0LTFoNGw0LTEgMi0xaDRsMTAtMnptMTAwIDE1YTU4IDU4IDAgMCAxIDI4IDhsMyAzIDIgMiA3IDggNSAxMyAxIDN2MmwxIDQzdjQwaC0zM3YtMTJsLTEgMS04IDgtMTIgNWE3MSA3MSAwIDAgMS0yOC0xbC0zLTEtMy0yLTMtMS01LTUtNC00di0ybC0yLTMtMS0yLTEtMnYtMmwtMS03LTEtMiAxLTkgMS0ydi0ybDMtNyAxLTEgNC01di0xaDF2LTFhNDggNDggMCAwIDEgMjQtMTJsNC0xaDJsNS0xIDUtMSAyMSAxdi03bC0zLTUtNC00LTEtMS01LTItMS0xYTc4IDc4IDAgMCAwLTQwIDRoLTJsLTIgMS0yIDFoLTJsLTIgMS0xIDF2LTI5aDJsMS0xIDMtMWgybDItMSAyLTFoM2wzLTEgNC0xaDR6TTk4IDMyN3Y1OUg2M1YyNjdoMzVabTI2Ny0yMyAxIDQ1IDUgOCAzIDIgMyAxIDYgMWg0bDItMSAzLTIgNS00IDEtMSAxLTJ2LTFsMS0zIDEtMSAxLTQydi0zN2gzNXYxMTloLTM0di02bC0xLTZ2MWwtOSA4LTQgMi0zIDItMyAxaC0ybC0xMSAxLTE1LTItMi0xaC0xbC0xLTEtMi0xYy0zLTEtOS03LTExLTEwYTQ0IDQ0IDAgMCAxLTctMThsLTEtM3YtNDRsLTEtNDJoMzZabTAgMCIgc3R5bGU9InN0cm9rZTpub25lO2ZpbGwtcnVsZTpub256ZXJvO2ZpbGw6I2ZmZjtmaWxsLW9wYWNpdHk6MSIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://devportal.itau.com.br/) [![Santander](https://img.shields.io/badge/Santander-%23EC0000.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4OCIgaGVpZ2h0PSI4MCIgdmlld0JveD0iMCAwIDg4IDgwIj48ZyBzdHlsZT0iZmlsbDojZmZmO2ZpbGwtb3BhY2l0eToxIj48cGF0aCBkPSJNLTEzNy4yNTkgMjg3LjgyM2MtLjI3OCAyLjQ2LS4xNjIgNS4wOTguNTQ2IDcuMjI4Ljk1MyAyLjg2OSAyLjI3IDQuOTM3IDcuMTI0IDExLjI1IDUuMTIxIDYuNjYzIDYuNzYgOS4wNzggNy45NzkgMTIuNTMzLjk5NiAyLjgyNSAxLjAxNyA0LjQ1Ny41OSA3LjAyIDQuNDg2Ljg1NSAxMS44NCAzLjIzOCAxNi43NyA2LjE5NCA0LjU3MiAyLjgxMiA3Ljg5NyA2LjQ1OCA5LjExNCA5Ljk5NS43MiAyLjA5My42OSA1LjMzNi0uMDczIDcuMzY1LS43MzQgMS45NDgtMS43NCAzLjU3NS0zLjIyNSA1LjIwMS01LjkwMiA2LjQ2NS0xNy41ODcgMTEuMTA4LTMxLjY2MiAxMi41ODYtMy4xMTQuMzI3LTEwLjc0NC41Ni0xMy4zNjEuNDA4LTE4LjgwMy0xLjA5NS0zMy45MjMtNy41OS0zOC4yMjYtMTYuNDE5LTEuNzktMy42NzEtMS43NDUtNi44MzIuMTQtMTAuNDYzIDEuNTU2LTIuOTkzIDUuODE4LTYuNjkzIDEwLjgzLTkuNDA4IDQuODIzLTIuMzIxIDkuMzUtNC4wNTYgMTQuMjAyLTUuNDIxLjIzNiAzLjE2OCA2LjQxIDEwLjc0IDguNDUzIDEzLjQyIDQuNDU3IDUuODM0IDYuMjIgOC42MTYgNy40NzkgMTAuODQ0Ljc1NiAxLjMzOCAxLjE4MyAyLjE5My45NyA0Ljc0IDAgMCAxLjcxNS0xLjU1MiAyLjM2MS0yLjg3LjgzOC0xLjcwNyAxLjEzNi0zLjQzOC45NzUtNS42NjMtLjE5NC0yLjY4LS42NDktNC4zMjEtMS45My02Ljk0NC0xLjI0NC0yLjU1LTMuMDMtNS4xMy02LjQyMy05LjI5NC00Ljc5MS01Ljg4LTYuNTY1LTkuMTExLTcuMjk3LTEzLjMwNy0uODEzLTQuNjU3LjQ5Ni05LjYwNyAzLjE3OC0xMi4wMTkuNTgzLS41MjQgMS41MjItMS4wMzUgMS41MjItMS4wMzVzLS4wOCAxLjItLjA4IDIuNTY0YzAgMi44ODUuMzI5IDQuMzg3IDEuNDM2IDYuNTg0IDEuMzc0IDIuNzI4IDMuMjc1IDUuMjggOS4xMDcgMTIuMjE5IDUuMTYgNi4xNDEgNi43NjQgOS4yNjEgNi43NjQgMTMuMTZsLjAwMiAxLjg4czEuMzYzLTEuMDQgMS45OTQtMS45OTRjMi0zLjAyIDIuMzE4LTcuNzMxLjc5NS0xMS45MDUtMS4wNDQtMi44Ni0yLjczNi01LjQ2NC03LjczOS0xMS43NTEtNS4wOTMtNi40LTcuMjMtMTEuNTI4LTcuMjMtMTUuODAxIDAtNC4yNzQuOTI4LTguMzUgNC45MTUtMTAuODk3IiBzdHlsZT0iZmlsbDojZmZmO2ZpbGwtb3BhY2l0eToxO2Rpc3BsYXk6aW5saW5lIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxODQuNjUyIC0yODAuMTc1KXNjYWxlKC45ODY2MSkiLz48L2c%2BPC9zdmc%2B&logoColor=white)](https://developer.santander.com.br/)
 
-Stripe • Mercado Pago
+Stripe • Mercado Pago • Itaú • Santander (official certified banking APIs)
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MatheusCarvalho12/MatheusCarvalho12/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="100%" />
+
+</div>
+

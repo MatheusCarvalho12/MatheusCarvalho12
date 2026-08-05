@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2196f3&size=35&center=true&vCenter=true&width=1000&lines=what’s+up?+i’m+Matheus+Carvalho;Welcome!+:%29)](https://www.linkedin.com/in/matheus-carvalho-7067b8230)
 
+<img src="assets/terminal.svg" alt="whoami --stack" width="100%" />
+
 <br><br><br>
 
 ## 📭 Contact Me

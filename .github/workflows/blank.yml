@@ -27,9 +27,11 @@ jobs:
         with:
           github_user_name: MatheusCarvalho12 #Seu usuario
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # O .svg ja traz o tema claro/escuro embutido (media query interna).
+          # O v3 nao embute media query de tema, entao geramos as duas
+          # variantes e o README escolhe via <picture>.
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
 
     # Publica os arquivos gerados na branch "output".

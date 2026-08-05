@@ -16,18 +16,18 @@ SOLID • Clean Architecture • Ports and Adapters • Domain-Driven Design (DD
 ---
 
 ## ⚙️ Backend
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/3/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://docs.python.org/3/) [![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://docs.sqlalchemy.org/) [![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/) [![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/) [![Ruff](https://img.shields.io/badge/Ruff-%23261230.svg?style=for-the-badge&logo=ruff&logoColor=%23D7FF64)](https://docs.astral.sh/ruff/)
 
 **.NET:** ASP.NET Core • Minimal APIs • Controllers • Filters • SignalR • gRPC • EF Core • Dapper • ADO.NET • BackgroundService/HostedService • Polly • FluentValidation • xUnit
 
-**Python:** FastAPI • Uvicorn • SQLAlchemy • Pydantic • OpenAI SDK • pytest • Ruff
+**Python:** FastAPI • Uvicorn • SQLAlchemy • Alembic • Pydantic • pytest • Ruff
 
 ---
 
 ## 🤖 AI Engineering
-[![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/docs/) [![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6F61.svg?style=for-the-badge&logo=langgraph&logoColor=white)](https://langchain-ai.github.io/langgraph/) [![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![FastMCP](https://img.shields.io/badge/FastMCP-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://gofastmcp.com/) [![pgvector](https://img.shields.io/badge/pgvector-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
+[![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/docs/) [![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6F61.svg?style=for-the-badge&logo=langgraph&logoColor=white)](https://langchain-ai.github.io/langgraph/) [![FastMCP](https://img.shields.io/badge/FastMCP-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://gofastmcp.com/) [![pgvector](https://img.shields.io/badge/pgvector-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 
-LangChain • LangGraph • RAG • Chunking • Embeddings • Vector Search • pgvector • Re-ranking • Agents • Tool Calling • MCP Servers (FastMCP) • FastAPI • Streaming (SSE) • LangSmith Tracing
+LangChain • LangGraph • RAG • Chunking • Embeddings • Vector Search • pgvector • Re-ranking • Agents • Tool Calling • MCP Servers (FastMCP) • Streaming (SSE) • LangSmith Tracing
 
 ---
 

@@ -2,6 +2,8 @@
 
 <img src="assets/terminal.svg" alt="whoami --stack" width="100%" />
 
+<img src="assets/stack.svg" alt="Stack" width="100%" />
+
 <br><br><br>
 
 ## 📭 Contact Me
